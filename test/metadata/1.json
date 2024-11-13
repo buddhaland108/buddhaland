@@ -1,0 +1,22 @@
+
+{
+    "image": "https://raw.githubusercontent.com/buddhaland108/buddhaland/heads/main/test/Buddhaland0001.png",
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "Yungang"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Mudra",
+            "value": "Anjali"
+        },
+        {
+            "trait_type": "Background/Urna",
+            "value": "Amber"
+        }
+    ]
+}
