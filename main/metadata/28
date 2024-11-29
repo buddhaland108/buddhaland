@@ -1,0 +1,21 @@
+{
+  "image": "https://raw.githubusercontent.com/buddhaland108/buddhaland/main/main/images/Buddhaland0028.png",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": 338
+    },
+    {
+      "trait_type": "Material",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mudra",
+      "value": "Varada & Abhaya"
+    },
+    {
+      "trait_type": "Background/Urna",
+      "value": "Emerald"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "image": "https://raw.githubusercontent.com/buddhaland108/buddhaland/main/main/images/Buddhaland0844.png",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Mathura"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Mudra",
+      "value": "Dharmachakra"
+    },
+    {
+      "trait_type": "Background/Urna",
+      "value": "Ruby"
+    }
+  ]
+}

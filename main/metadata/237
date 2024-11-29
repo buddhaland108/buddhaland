@@ -1,0 +1,21 @@
+{
+  "image": "https://raw.githubusercontent.com/buddhaland108/buddhaland/main/main/images/Buddhaland0237.png",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Lotus Sutra"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Mudra",
+      "value": "Varada"
+    },
+    {
+      "trait_type": "Background/Urna",
+      "value": "Emerald"
+    }
+  ]
+}

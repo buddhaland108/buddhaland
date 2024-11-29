@@ -1,0 +1,21 @@
+{
+  "image": "https://raw.githubusercontent.com/buddhaland108/buddhaland/main/main/images/Buddhaland0488.png",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Khmer"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Mudra",
+      "value": "Bhumisparsha"
+    },
+    {
+      "trait_type": "Background/Urna",
+      "value": "Diamond"
+    }
+  ]
+}

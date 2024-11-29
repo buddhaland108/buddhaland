@@ -1,0 +1,21 @@
+{
+  "image": "https://raw.githubusercontent.com/buddhaland108/buddhaland/main/main/images/Buddhaland0153.png",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Yungang"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Porelain"
+    },
+    {
+      "trait_type": "Mudra",
+      "value": "Vitarka"
+    },
+    {
+      "trait_type": "Background/Urna",
+      "value": "Diamond"
+    }
+  ]
+}

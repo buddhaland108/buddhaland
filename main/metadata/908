@@ -1,0 +1,21 @@
+{
+  "image": "https://raw.githubusercontent.com/buddhaland108/buddhaland/main/main/images/Buddhaland0908.png",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Tang"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Mudra",
+      "value": "Abaya"
+    },
+    {
+      "trait_type": "Background/Urna",
+      "value": "Amber"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "image": "https://raw.githubusercontent.com/buddhaland108/buddhaland/main/main/images/Buddhaland0457.png",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Sukhothai"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Silicon"
+    },
+    {
+      "trait_type": "Mudra",
+      "value": "Dyana"
+    },
+    {
+      "trait_type": "Background/Urna",
+      "value": "Amber"
+    }
+  ]
+}
