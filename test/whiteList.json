@@ -88,5 +88,10 @@
     "address": "0x3DB2e5E80ba05AF94f541d2B6fC2DBd295b7920f",
     "tokenId": "320",
     "deadline": 1742400000
+  },
+  {
+    "address": "0xdd24690C0803E11BeFe51932e38f592C34939d71",
+    "tokenId": "320",
+    "deadline": 1742400000
   }
 ]
